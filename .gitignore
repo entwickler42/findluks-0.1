@@ -1,0 +1,45 @@
+# Generated build outputs
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.tds
+*.pch
+*.bpl
+*.dcu
+*.o
+*.lo
+*.la
+*.class
+*.jar
+*.log
+
+# IDE-specific caches
+*.suo
+*.user
+*.ncb
+*.aps
+*.jpx.local
+*.local
+*.tlog
+*.idb
+*.ipch
+
+# Generated directories
+Debug/
+Release/
+build/
+obj/
+bin/
+out/
+classes/
+autom4te.cache/
+
+# Temporary files
+*~
+*.tmp
+
+# OS artifacts
+.DS_Store
